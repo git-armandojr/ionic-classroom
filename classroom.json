@@ -1,0 +1,132 @@
+{    
+    "monday": {
+        "first": {
+            "discipline": "Rede de Computadores",
+            "teacher": "Fábio Henrique Cabrini",
+            "ambience": "Lab 70",
+            "start": "19:15"
+        },
+        "second": {
+            "discipline": "Rede de Computadores",
+            "teacher": "Fábio Henrique Cabrini",
+            "ambience": "Lab 70",
+            "start": "20:05"
+        },
+        "third": {
+            "discipline": "Linguagem de Programação IV",
+            "teacher": "Gabriel Lara Batista",
+            "ambience": "Lab 64",
+            "start": "21:05"
+        },
+        "fourth": {
+            "discipline": "Linguagem de Programação IV",
+            "teacher": "Gabriel Lara Batista",
+            "ambience": "Lab 70",
+            "start": "21:55"
+        }
+    },
+    "tuesday": {
+        "first": {
+            "discipline": "Sistemas Operacionais",
+            "teacher": "",
+            "ambience": "Lab 70",
+            "start": "19:15"
+        },
+        "second": {
+            "discipline": "Sistemas Operacionais",
+            "teacher": "",
+            "ambience": "",
+            "start": "20:05"
+        },
+        "third": {
+            "discipline": "Qualidade de Software",
+            "teacher": "Sidney Galeote",
+            "ambience": "Sala 84",
+            "start": "21:05"
+        },
+        "fourth": {
+            "discipline": "Qualidade de Software",
+            "teacher": "Sidney Galeote",
+            "ambience": "Sala 84",
+            "start": "21:55"
+        }
+    },
+    "wednesday": {
+        "first": {
+            "discipline": "Arquitetura de Computadores II",
+            "teacher": "Filippo Valiante Filho",
+            "ambience": "Lab 63",
+            "start": "19:15"
+        },
+        "second": {
+            "discipline": "Arquitetura de Computadores II",
+            "teacher": "Filippo Valiante Filho",
+            "ambience": "Lab 63",
+            "start": "20:05"
+        },
+        "third": {
+            "discipline": "Processos Organizacionais",
+            "teacher": "Manoel Garcia Neto",
+            "ambience": "Sala 84",
+            "start": "21:05"
+        },
+        "fourth": {
+            "discipline": "Processos Organizacionais",
+            "teacher": "Manoel Garcia Neto",
+            "ambience": "Sala 84",
+            "start": "21:55"
+        }
+    },
+    "thursday": {
+        "first": {
+            "discipline": "Rede de Computadores",
+            "teacher": "Fábio Henrique Cabrini",
+            "ambience": "Lab 70",
+            "start": "19:15"
+        },
+        "second": {
+            "discipline": "Rede de Computadores",
+            "teacher": "Fábio Henrique Cabrini",
+            "ambience": "Lab 70",
+            "start": "20:05"
+        },
+        "third": {
+            "discipline": "Linguagem de Programação IV",
+            "teacher": "Gabriel Lara Batista",
+            "ambience": "Lab 64",
+            "start": "21:05"
+        },
+        "fourth": {
+            "discipline": "Linguagem de Programação IV",
+            "teacher": "Gabriel Lara Batista",
+            "ambience": "Lab 64",
+            "start": "21:55"
+        }
+    },
+    "friday": {
+        "first": {
+            "discipline": "Arquitetura de Computadores II",
+            "teacher": "Filippo Valiante Filho",
+            "ambience": "Lab 63",
+            "start": "19:15"
+        },
+        "second": {
+            "discipline": "Arquitetura de Computadores II",
+            "teacher": "Filippo Valiante Filho",
+            "ambience": "Lab 63",
+            "start": "20:05"
+        },
+        "third": {
+            "discipline": "Sistemas Operacionais",
+            "teacher": "",
+            "ambience": "Sala 76",
+            "start": "21:05"
+        },
+        "fourth": {
+            "discipline": "Sistemas Operacionais",
+            "teacher": "",
+            "ambience": "Sala 76",
+            "start": "21:55"
+        }
+    }
+}
